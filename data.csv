@@ -1,0 +1,101 @@
+title,director,price,name,age
+1917,Sam Mendes,10000,Ava,51
+1917,Sam Mendes,10000,Mason,22
+1917,Sam Mendes,10000,Charlotte,54
+1917,Sam Mendes,10000,Sophia,22
+Alien,Ridley Scott,15000,Emily,72
+Alien,Ridley Scott,15000,Jacob,29
+Alien,Ridley Scott,15000,Aria,18
+American History X,Tony Kaye,10000,Elijah,72
+Anand,Hrishikesh Mukherjee,16000,Olivia,18
+Anand,Hrishikesh Mukherjee,16000,Harper,37
+Andhadhun,Sriram Raghavan,20000,John,17
+Andhadhun,Sriram Raghavan,20000,Wyatt,17
+Avengers: Endgame,Anthony Russo,15000,Mason,33
+Avengers: Infinity War,Anthony Russo,15000,Olivia,36
+Avengers: Infinity War,Anthony Russo,15000,Owen,49
+Ayla: The Daughter of War,Can Ulkay,17000,Mateo,71
+Ayla: The Daughter of War,Can Ulkay,17000,Ethan,62
+Capharnaüm,Nadine Labaki,15000,Ellie,26
+Casablanca,Michael Curtiz,25000,Noah,22
+Casablanca,Michael Curtiz,25000,Wyatt,67
+Casablanca,Michael Curtiz,25000,Sebastian,21
+City Lights,Charles Chaplin,25000,Noah,35
+City Lights,Charles Chaplin,25000,Wyatt,81
+Coco,Lee Unkrich,17000,William,81
+Django Unchained,Quentin Tarantino,25000,Ava,63
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,Stanley Kubrick,17000,Daniel,47
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,Stanley Kubrick,17000,Sebastian,66
+Eternal Sunshine of the Spotless Mind,Michel Gondry,10000,Abigail,62
+Eternal Sunshine of the Spotless Mind,Michel Gondry,10000,Mia,69
+Eternal Sunshine of the Spotless Mind,Michel Gondry,10000,Camila,17
+Fight Club,David Fincher,10000,Olivia,65
+Gisaengchung,Bong Joon Ho,8500,Abigail,86
+Gladiator,Ridley Scott,17000,Michael,36
+Good Will Hunting,Gus Van Sant,8500,Harper,46
+Good Will Hunting,Gus Van Sant,8500,Samuel,71
+Goodfellas,Martin Scorsese,15000,Jacob,72
+Hotaru no haka,Isao Takahata,10000,Michael,90
+"Il buono, il brutto, il cattivo",Sergio Leone,17000,Layla,62
+Inglourious Basterds,Quentin Tarantino,15000,Alexander,66
+Inglourious Basterds,Quentin Tarantino,15000,Joseph,23
+Inglourious Basterds,Quentin Tarantino,15000,Scarlett,50
+It's a Wonderful Life,Frank Capra,17000,Nora,19
+It's a Wonderful Life,Frank Capra,17000,Daniel,53
+La vita e bella,Roberto Benigni,20000,Mason,36
+Miracle in cell NO.7,Mehmet Ada _ztekin,15000,James,38
+Miracle in cell NO.7,Mehmet Ada _ztekin,15000,Sofia,46
+Modern Times,Charles Chaplin,20000,Ava,67
+Mononoke-hime,Hayao Miyazaki,20000,Elizabeth,56
+Oldeuboi,Chan-wook Park,10000,Layla,77
+Oldeuboi,Chan-wook Park,10000,Mason,49
+Oldeuboi,Chan-wook Park,10000,Mateo,73
+Once Upon a Time in America,Sergio Leone,8500,Mia,70
+Once Upon a Time in the West,Sergio Leone,8500,Olivia,71
+Paths of Glory,Stanley Kubrick,17000,Ethan,67
+Raiders of the Lost Ark,Steven Spielberg,10000,Henry,47
+Raiders of the Lost Ark,Steven Spielberg,10000,Joseph,57
+Requiem for a Dream,Darren Aronofsky,10000,Emma,27
+Saving Private Ryan,Steven Spielberg,17000,Scarlett,54
+Saving Private Ryan,Steven Spielberg,17000,Luna,66
+Sen to Chihiro no kamikakushi,Hayao Miyazaki,17000,Jackson,23
+Shichinin no samurai,Akira Kurosawa,20000,Sophia,57
+Shichinin no samurai,Akira Kurosawa,20000,Penelope,43
+Snatch,Guy Ritchie,10000,Jackson,63
+Soorarai Pottru,Sudha Kongara,20000,Camila,32
+Spider-Man: Into the Spider-Verse,Bob Persichetti,25000,Aria,26
+Spider-Man: Into the Spider-Verse,Bob Persichetti,25000,Elizabeth,88
+Spider-Man: Into the Spider-Verse,Bob Persichetti,25000,Luna,85
+Star Wars,George Lucas,15000,Aria,35
+Star Wars,George Lucas,15000,Hazel,18
+Star Wars,George Lucas,15000,Mila,63
+Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,20000,Evelyn,76
+The Dark Knight,Christopher Nolan,17000,Jackson,90
+The Dark Knight Rises,Christopher Nolan,17000,Charlotte,66
+The Dark Knight Rises,Christopher Nolan,17000,Jack,38
+The Departed,Martin Scorsese,20000,Henry,80
+The Departed,Martin Scorsese,20000,Madison,39
+The Departed,Martin Scorsese,20000,Avery,87
+The Godfather: Part II,Francis Ford Coppola,25000,Logan,21
+The Great Dictator,Charles Chaplin,15000,Camila,35
+The Great Dictator,Charles Chaplin,15000,Owen,68
+The Great Dictator,Charles Chaplin,15000,Eleanor,20
+The Green Mile,Frank Darabont,15000,Jacob,83
+The Green Mile,Frank Darabont,15000,Noah,36
+The Intouchables,Olivier Nakache,25000,Mason,52
+The Lion King,Roger Allers,8500,Aiden,18
+The Lives of Others,Florian Henckel von Donnersmarck,20000,Penelope,48
+The Lives of Others,Florian Henckel von Donnersmarck,20000,John,51
+The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,20000,Wyatt,86
+The Lord of the Rings: The Return of the King,Peter Jackson,20000,Nora,44
+The Matrix,Lana Wachowski,8500,Alexander,90
+The Matrix,Lana Wachowski,8500,James,73
+The Shining,Stanley Kubrick,20000,Eleanor,61
+The Shining,Stanley Kubrick,20000,Samuel,82
+The Usual Suspects,Bryan Singer,15000,Ellie,46
+The Usual Suspects,Bryan Singer,15000,Liam,34
+Tumbbad,Rahi Anil Barve,10000,Nora,82
+Vikram Vedha,Gayatri,17000,Benjamin,61
+Vikram Vedha,Gayatri,17000,Olivia,78
+WALL·E,Andrew Stanton,10000,Mason,70
+Witness for the Prosecution,Billy Wilder,25000,Logan,88
